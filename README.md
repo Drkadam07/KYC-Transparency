@@ -19,3 +19,4 @@ Keywords: KYC, Blockchain, IPFS, DLT
 
 
 
+[Open KYC Transparency Project Documentation](./kyc.pdf)
